@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViapathTest</string>
+    <string name="title_activity_recipe_detail">RecipeDetailActivity</string>
+    <string name="tab_summary">Summary</string>
+    <string name="tab_ingredients">Ingredients</string>
+    <string name="tab_instructions">Instructions</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ViapathTest" parent="Theme.Material3.Dark">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/green</item>
+    </style>
+
+    <style name="Theme.ViapathTest" parent="Base.Theme.ViapathTest" />
+
+    <style name="Theme.ViapathTest.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ViapathTest.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.ViapathTest.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
